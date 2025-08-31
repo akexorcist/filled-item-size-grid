@@ -1,0 +1,1 @@
+# Example Jetpack Compose project for filled item size in LazyVerticalGrid in Android
